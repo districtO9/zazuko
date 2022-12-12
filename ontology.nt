@@ -1,0 +1,22 @@
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Balsporten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Balsporten> <http://www.w3.org/2000/01/rdf-schema#comment> "Balsporten" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Balsporten> <http://www.w3.org/2000/01/rdf-schema#label> "Balsporten" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Burger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Burger> <http://www.w3.org/2000/01/rdf-schema#comment> "Een burger is cool" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Burger> <http://www.w3.org/2000/01/rdf-schema#label> "Burger" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/intensiviteit> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Balsporten> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/intensiviteit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/intensiviteit> <http://www.w3.org/2000/01/rdf-schema#comment> "Intensiviteit" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/intensiviteit> <http://www.w3.org/2000/01/rdf-schema#label> "Intensiviteit" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Tennis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Tennis> <http://www.w3.org/2000/01/rdf-schema#comment> "Tennis" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Tennis> <http://www.w3.org/2000/01/rdf-schema#label> "Tennis" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Tennis> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Balsporten> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Tennis> <http://www.w3.org/2004/02/skos/core#note> "Tennis"^^<http://media-type.described.at/text/markdown> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/testje> <http://schema.org/domainIncludes> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Balsporten> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/testje> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/testje> <http://www.w3.org/2000/01/rdf-schema#comment> "testje" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/testje> <http://www.w3.org/2000/01/rdf-schema#label> "testje" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Zwemmen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Zwemmen> <http://www.w3.org/2000/01/rdf-schema#comment> "dit is een test" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Zwemmen> <http://www.w3.org/2000/01/rdf-schema#label> "Zwemmen" .
