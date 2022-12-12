@@ -1,0 +1,21 @@
+<http://editor.zazuko.com/_datasetVersion> <http://schema.org/version> "6" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/District09/> <http://schema.org/hasPart> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Sportwebsite> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/District09/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/District09/> <http://www.w3.org/2000/01/rdf-schema#comment> "Ontologieën in beheer van District09" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/District09/> <http://www.w3.org/2000/01/rdf-schema#label> "District09" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Burgerzaken> <http://purl.org/dc/terms/modified> "2022-02-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Burgerzaken> <http://schema.org/hasPart> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Burger> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Burgerzaken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Burgerzaken> <http://www.w3.org/2000/01/rdf-schema#comment> "Documenten en administratieve zaken die belangrijk zijn in het leven van elke burger." .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Burgerzaken> <http://www.w3.org/2000/01/rdf-schema#label> "Burgerzaken" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Sportwebsite> <http://purl.org/dc/terms/modified> "2022-02-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Sportwebsite> <http://schema.org/hasPart> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Balsporten> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Sportwebsite> <http://schema.org/hasPart> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Tennis> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Sportwebsite> <http://schema.org/hasPart> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/schema/Zwemmen> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Sportwebsite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Sportwebsite> <http://www.w3.org/2000/01/rdf-schema#comment> "Ontologieën die gebruikt worden binnen de sportwebsite." .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Sportwebsite> <http://www.w3.org/2000/01/rdf-schema#label> "Sportwebsite" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/Stadgent/> <http://schema.org/hasPart> <http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/domein/Burgerzaken> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/Stadgent/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/Stadgent/> <http://www.w3.org/2000/01/rdf-schema#comment> "Ontologieën in beheer van Stad Gent" .
+<http://zazuko-dv.apps.ocpqa01.gentgrp.gent.be/Stadgent/> <http://www.w3.org/2000/01/rdf-schema#label> "Stad Gent" .
